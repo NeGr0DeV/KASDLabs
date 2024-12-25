@@ -1,0 +1,14 @@
+D:\VS projects\Lab11new\Lab11new\bin\Debug\net8.0\Lab11new.exe
+D:\VS projects\Lab11new\Lab11new\bin\Debug\net8.0\Lab11new.deps.json
+D:\VS projects\Lab11new\Lab11new\bin\Debug\net8.0\Lab11new.runtimeconfig.json
+D:\VS projects\Lab11new\Lab11new\bin\Debug\net8.0\Lab11new.dll
+D:\VS projects\Lab11new\Lab11new\bin\Debug\net8.0\Lab11new.pdb
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.AssemblyInfoInputs.cache
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.AssemblyInfo.cs
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.dll
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\refint\Lab11new.dll
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.pdb
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\Lab11new.genruntimeconfig.cache
+D:\VS projects\Lab11new\Lab11new\obj\Debug\net8.0\ref\Lab11new.dll
