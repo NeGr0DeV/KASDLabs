@@ -1,0 +1,14 @@
+D:\VS projects\Lab14-15\Lab14-15\bin\Debug\net8.0\Lab14-15.exe
+D:\VS projects\Lab14-15\Lab14-15\bin\Debug\net8.0\Lab14-15.deps.json
+D:\VS projects\Lab14-15\Lab14-15\bin\Debug\net8.0\Lab14-15.runtimeconfig.json
+D:\VS projects\Lab14-15\Lab14-15\bin\Debug\net8.0\Lab14-15.dll
+D:\VS projects\Lab14-15\Lab14-15\bin\Debug\net8.0\Lab14-15.pdb
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.AssemblyInfoInputs.cache
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.AssemblyInfo.cs
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.dll
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\refint\Lab14-15.dll
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.pdb
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\Lab14-15.genruntimeconfig.cache
+D:\VS projects\Lab14-15\Lab14-15\obj\Debug\net8.0\ref\Lab14-15.dll
