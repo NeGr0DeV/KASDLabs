@@ -1,0 +1,14 @@
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.AssemblyInfoInputs.cache
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.AssemblyInfo.cs
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab21\Lab21\bin\Debug\net8.0\Lab21.exe
+D:\VS projects\Lab21\Lab21\bin\Debug\net8.0\Lab21.deps.json
+D:\VS projects\Lab21\Lab21\bin\Debug\net8.0\Lab21.runtimeconfig.json
+D:\VS projects\Lab21\Lab21\bin\Debug\net8.0\Lab21.dll
+D:\VS projects\Lab21\Lab21\bin\Debug\net8.0\Lab21.pdb
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.dll
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\refint\Lab21.dll
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.pdb
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\Lab21.genruntimeconfig.cache
+D:\VS projects\Lab21\Lab21\obj\Debug\net8.0\ref\Lab21.dll
