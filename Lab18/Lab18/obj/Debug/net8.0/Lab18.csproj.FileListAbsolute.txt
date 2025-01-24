@@ -1,0 +1,14 @@
+D:\VS projects\Lab18\Lab18\bin\Debug\net8.0\Lab18.exe
+D:\VS projects\Lab18\Lab18\bin\Debug\net8.0\Lab18.deps.json
+D:\VS projects\Lab18\Lab18\bin\Debug\net8.0\Lab18.runtimeconfig.json
+D:\VS projects\Lab18\Lab18\bin\Debug\net8.0\Lab18.dll
+D:\VS projects\Lab18\Lab18\bin\Debug\net8.0\Lab18.pdb
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.AssemblyInfoInputs.cache
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.AssemblyInfo.cs
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.dll
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\refint\Lab18.dll
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.pdb
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\Lab18.genruntimeconfig.cache
+D:\VS projects\Lab18\Lab18\obj\Debug\net8.0\ref\Lab18.dll
