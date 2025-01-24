@@ -1,0 +1,13 @@
+int dawd = 3;
+flot f = 32;
+int dawd = 3.2;
+double d = 12;
+f]fe aef == rfagr;
+double d = 14   ;
+int d = 14;
+float s = 1634;
+int sd  = 422;
+int 432 = 43;
+float 3 =   43;
+double 
+int = 12;
