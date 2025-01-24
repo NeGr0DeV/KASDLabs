@@ -1,0 +1,14 @@
+D:\VS projects\Lab25\Lab25\bin\Debug\net8.0\Lab25.exe
+D:\VS projects\Lab25\Lab25\bin\Debug\net8.0\Lab25.deps.json
+D:\VS projects\Lab25\Lab25\bin\Debug\net8.0\Lab25.runtimeconfig.json
+D:\VS projects\Lab25\Lab25\bin\Debug\net8.0\Lab25.dll
+D:\VS projects\Lab25\Lab25\bin\Debug\net8.0\Lab25.pdb
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.AssemblyInfoInputs.cache
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.AssemblyInfo.cs
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.dll
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\refint\Lab25.dll
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.pdb
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\Lab25.genruntimeconfig.cache
+D:\VS projects\Lab25\Lab25\obj\Debug\net8.0\ref\Lab25.dll
