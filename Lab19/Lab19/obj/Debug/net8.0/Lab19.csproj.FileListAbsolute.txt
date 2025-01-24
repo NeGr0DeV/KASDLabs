@@ -1,0 +1,14 @@
+D:\VS projects\Lab19\Lab19\bin\Debug\net8.0\Lab19.exe
+D:\VS projects\Lab19\Lab19\bin\Debug\net8.0\Lab19.deps.json
+D:\VS projects\Lab19\Lab19\bin\Debug\net8.0\Lab19.runtimeconfig.json
+D:\VS projects\Lab19\Lab19\bin\Debug\net8.0\Lab19.dll
+D:\VS projects\Lab19\Lab19\bin\Debug\net8.0\Lab19.pdb
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.AssemblyInfoInputs.cache
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.AssemblyInfo.cs
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.csproj.CoreCompileInputs.cache
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.dll
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\refint\Lab19.dll
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.pdb
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\Lab19.genruntimeconfig.cache
+D:\VS projects\Lab19\Lab19\obj\Debug\net8.0\ref\Lab19.dll
